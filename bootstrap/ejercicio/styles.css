@@ -12,3 +12,10 @@ svg {
   color: black;
   font-weight: bold;
 }
+
+li span{
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
